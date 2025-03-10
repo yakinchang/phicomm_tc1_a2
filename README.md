@@ -3,6 +3,7 @@ phicomm_tc1_a2
 
 ## 项目介绍  
 斐讯插排 TC1 A2 版本固件。  
+开源代码在这里，有兴趣的朋友可以根据自己的需要改：https://github.com/zhangyantsing/phicomm_tc1_a2
 ### 支持功能：
 * 通过 mqtt 自动发现接入 homeassistant
 * 独立控制每个插口开关
